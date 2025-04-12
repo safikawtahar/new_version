@@ -6,5 +6,5 @@ CREATE TABLE Produit (
     Nom NVARCHAR(100),
     Prix DECIMAL(10, 2)
 );
-INSERT INTO Version (version_num) VALUES ('2025.1.1');
+INSERT INTO Version (Designation) VALUES ('2025.1.1');
 
