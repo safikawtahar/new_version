@@ -6,4 +6,4 @@ CREATE TABLE Utilisateur (
     Nom NVARCHAR(100),
     Email NVARCHAR(100) UNIQUE
 );
-INSERT INTO Version (version_num) VALUES ('2025.1.0');
+INSERT INTO Version (Designation) VALUES ('2025.1.0');
